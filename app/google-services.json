@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "384966709255",
+    "firebase_url": "https://chat-d0374.firebaseio.com",
+    "project_id": "chat-d0374",
+    "storage_bucket": "chat-d0374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384966709255:android:6b517a34dac02ad410daa2",
+        "android_client_info": {
+          "package_name": "me.gauravbordoloi.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384966709255-ng3rbc1lhq085sf77kuoe48389ig39pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGmN9lfhkVE8m7shMZyYh1MkabCYV2ap8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384966709255-ng3rbc1lhq085sf77kuoe48389ig39pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

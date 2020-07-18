@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chat App</string>
+
+    <string name="username">Username</string>
+    <string name="start_chatting">Start Chatting</string>
+    <string name="say_a_hi">Say a hi …</string>
+    <string name="default_notification_channel_id">Chat App</string>
+    <string name="logout">Logout</string>
+
+</resources>
